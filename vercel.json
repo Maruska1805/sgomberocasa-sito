@@ -1,0 +1,12 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/4f70d030", "destination": "/", "permanent": true },
+    { "source": "/8d3df933", "destination": "/sgombero-milano", "permanent": true },
+    { "source": "/51c00f29", "destination": "/valutazione-mobili", "permanent": true },
+    { "source": "/54d22e91", "destination": "/sgombero-eredita", "permanent": true },
+    { "source": "/9dbf512f", "destination": "/noleggio-autoscala", "permanent": true },
+    { "source": "/6a1df053", "destination": "/contatti", "permanent": true }
+  ]
+}
